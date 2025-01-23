@@ -22,8 +22,10 @@ The password for the next level is stored in a hidden file in the inhere directo
    ssh bandit3@bandit.labs.overthewire.org -p 2220
 3. Now provide the password if prompted
 4. List the contents of home directory: ls
-4. Now cat the file called spaces in the filename (use qoutation marks)
-      to do this prompt: cat "spaces in the filename"
+5. navigate to the inhere directory: cd inhere
+6. to view hidden files run: ls -a
+7. now run: cat .hidden to view the cat file
+8. save the password and exit
 
 The Output of this file should be: 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
 
