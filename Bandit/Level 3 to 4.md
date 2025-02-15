@@ -1,4 +1,4 @@
-# Bandit Wargame: Leve 3 to Level 4
+s# Bandit Wargame: Leve 3 to Level 4
 
 ## Challenge Description
 The password for the next level is stored in a hidden file in the inhere directory.
